@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/davidnaranjoramirez">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-162B43?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:naranjoramirez.d@gmail.com">
+  <a href="mailto:tu-email@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-Contact-B95319?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Based_in-M%C3%A1laga/Madrid_%F0%9F%87%AA%F0%9F%87%B8-64748B?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Based_in-Ronda,_M%C3%A1laga_%F0%9F%87%AA%F0%9F%87%B8-64748B?style=flat-square" alt="Location" />
 </p>
 
 <h3 align="center">I build data pipelines and web applications — from raw data to deployed product.</h3>
@@ -62,8 +62,8 @@
 ### &#128202;&nbsp; GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnarram&show_icons=true&hide_border=true&bg_color=0F141C&title_color=E2E8F0&text_color=CBD5E1&icon_color=E65F19&ring_color=E65F19&hide=issues" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnarram&layout=compact&hide_border=true&bg_color=0F141C&title_color=E2E8F0&text_color=CBD5E1&langs_count=6" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats-ochre-eta-66.vercel.app/api?username=dnarram&show_icons=true&hide_border=true&bg_color=0F141C&title_color=E2E8F0&text_color=CBD5E1&icon_color=E65F19&ring_color=E65F19&hide=issues&cache_seconds=86400" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats-ochre-eta-66.vercel.app/api/top-langs/?username=dnarram&layout=compact&hide_border=true&bg_color=0F141C&title_color=E2E8F0&text_color=CBD5E1&langs_count=6&count_private=true&cache_seconds=86400" height="160" alt="Top languages" />
 </div>
 
 ---
