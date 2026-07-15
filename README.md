@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/davidnaranjoramirez">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-162B43?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:naranjoramirez.d@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-B95319?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Based_in-Ronda,_M%C3%A1laga_%F0%9F%87%AA%F0%9F%87%B8-64748B?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Based_in-M%C3%A1laga/Madrid_%F0%9F%87%AA%F0%9F%87%B8-64748B?style=flat-square" alt="Location" />
 </p>
 
 <h3 align="center">I build data pipelines and web applications — from raw data to deployed product.</h3>
